@@ -32,6 +32,8 @@ public class JDBC {
         
         System.out.println(name);
         
+     
+                
         st.close();
         con.close();
         
